@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  body {
+    width: 90%;
+    margin: 0 5%;
+  }
+
+  td {
+    padding: 10px;
+  }
+
+  .wrapper{
+      text-align: center;
+  }
+  
+  .item {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #333333;
+    font-size: 14pt;
+  }
+
+  .item-title {
+    font-size: 16pt;
+    font-weight: bold;
+    color: red;
+    margin-bottom: 20px;
+  }
+
+  .item-title-blue {
+    font-size: 16pt;
+    font-weight: bold;
+    color: #0044cc;
+  }
+
+  .title_bold {
+    color: red;
+    font-weight: bold;
+  }
+
+  .covid {
+    text-align: center;
+  }
+
+  .covid-title {
+    color: #000065;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .link_color {
+    color: #0097d7;
+    font-weight: bold;
+  }
+
+  .outer-square {
+    position: relative;
+    background-color: #ee3338;
+    width: 50px;
+    height: 50px;
+  }
+
+  .square {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+  }
+
+  .syoutengai {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .syoutengai_information {
+    margin: 5px;
+    font-size: 48px;
+    padding: 5px 0 0 0;
+  }
+
+  .nenmatu{
+      padding: 20px;}

@@ -1,0 +1,130 @@
+﻿* {
+ margin:0px;
+ padding:0px;
+}
+
+body{
+ width:1080px;
+ height:1920px;
+}
+
+#language{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1080px;
+  height: 130px;
+  padding-top: 10px;
+  text-align: center;
+  vertical-align: middle;
+  background-color: #ffff99;
+}
+#language img {
+  width: 230px;
+  height: 100px;
+  padding-top: 5px;
+}
+
+#language table {
+  width: 100%;
+  border: 0;
+  text-align: center;
+}
+
+#header{
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  width: 1080px;
+  height: 290px;
+  margin-bottom: 20px;
+  background-color: #FFD88D;
+}
+
+#navi{
+  position: absolute;
+  top: 460px;
+  left: 0px;
+  width: 1080px;
+  height: 50px;
+  background-color: white;
+}
+
+#navi table {
+ width:100%;
+ text-align:center;
+ font-size:20pt;
+// border:solid 1px red;
+}
+
+#main{
+  position: absolute;
+  top: 510px;
+  left: 0px;
+  width:1080px;
+  height:700px;
+  background-color:#ffffff;
+}
+
+#info {
+  position: absolute;
+  top: 1210px;
+  left: 0px;
+  width: 1080px;
+  height: 600px;
+  background-color: white;
+}
+
+#footer{
+  position: absolute;
+  top: 1810px;
+  left: 0px;
+  width: 1080px;
+  height: 110px;
+  vertical-align: middle;
+  text-align:center;
+  background-color:black;
+}
+
+.btn-flat-simple {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: #00BCD4;
+  background: white;
+  transition: .4s;
+  border-radius: 10px;
+}
+
+.btn-flat-simple:active {
+  transform: translate(0,2px);
+  border: 1px solid red;
+  color: white;
+}
+
+.selected {
+  background: #ffec00;
+}
+
+.btn-top-radius {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  padding: 8px 50px 5px 50px;
+  text-decoration: none;
+  color: #ffffff;
+  background: -moz-radial-gradient(#2a2a2a, #6a6a6a); 
+  background: -webkit-radial-gradient(#2a2a2a, #6a6a6a); 
+  background: radial-gradient(#2a2a2a, #6a6a6a); 
+  border-radius: 15px 15px 0 0;
+  transition: .4s;
+}
+
+.btn-top-radius:hover {
+  background: #ffc25c;
+  color: #FFF;
+}
+

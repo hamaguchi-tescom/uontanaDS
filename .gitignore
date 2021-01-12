@@ -1,0 +1,9 @@
+.vscode
+3midori_signage/
+mysql
+Dockerfile
+docker-compose.yml
+*.jpg
+*.png
+*.gif
+*.mp4

@@ -1,0 +1,88 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="btn-square.css" type="text/css">
+</head>
+<style>
+#kashi {
+  width:1080px;
+  height:608px;
+}
+
+kashi {
+  width:100%;
+  height:100%;
+}
+</style>
+<body>
+	<div id="kashi">
+<center>
+
+
+<img src="shop-title-2.gif"><br>
+<b><font size="5"color="red">甜　点</font></b>
+
+
+
+<div style="width:900px ;padding: 10px; margin-bottom: 10px; border: 1px dashed #333333; border-radius: 5px;">
+<b><a href="7akashitakou.html"target="frame"><font size="5"><p style="background-color:#FECDEE">"Akashi多幸（あかしたこう）停?折扣?惠卷?行商店"</p></font></a></b>
+<p><table cellspacing=5><tr>
+		<td><img src="akashitakou01.jpg"width="200" height="150"><img src="akashitakou02.jpg"width="200" height="150"></td>
+		<td>
+        明石?（?蛋?）・??茶泡?・???<br><br>
+      	????  11:00～19:00<br><br>
+      	固定休息日     ?周星期四<br><br>
+      	除了自傲的明石?之外，<br>
+      	?精?了??茶泡?和???三?口味来?售。</td>
+</tr></table></p>
+</div>
+
+
+<div style="width:900px ;padding: 10px; margin-bottom: 10px; border: 1px dashed #333333; border-radius: 5px;">
+<b><a href="7eirakudou1.html"target="frame"><font size="5"><p style="background-color:#FECDEE">"永?堂  ?之棚店（えいらくどう）停?折扣?惠卷?行商店"</p></font></a></b>
+<p><table cellspacing=5><tr>
+		<td><img src="eirakudou101.jpg"width="200" height="150"><img src="eirakudou102.jpg"width="200" height="150"></td>
+		<td>
+        章?仙?<br><br>
+      	????  10:00～18:00<br><br>
+      	固定休息日     ?周星期四<br><br>
+      	我???明石?里特?有名的甜点。<br>
+      	充分利用了?之棚商店街?个地方。<br>
+      	?享用?的仙?。</td>
+</tr></table></p>
+</div>
+
+
+<div style="width:900px ;padding: 10px; margin-bottom: 10px; border: 1px dashed #333333; border-radius: 5px;">
+<b><a href="7eirakudou2.html"target="frame"><font size="5"><p style="background-color:#FECDEE">"永?堂  ?之棚?店（えいらくどう）停?折扣?惠卷?行商店"</p></font></a></b>
+<p><table cellspacing=5><tr>
+		<td><img src="eirakudou201.jpg"width="200" height="150"><img src="eirakudou202.jpg"width="200" height="150"></td>
+		<td>
+        章???<br><br>
+      	????  10:00～18:00<br><br>
+      	固定休息日     ?周星期四<br><br>
+      	"店内主要出售?好的【御多幸祈愿??】。<br>
+        ?作?明石的特?。"</td>
+</tr></table></p>
+</div>
+
+
+<div style="width:900px ;padding: 10px; margin-bottom: 10px; border: 1px dashed #333333; border-radius: 5px;">
+<b><a href="7123.html"target="frame"><font size="5"><p style="background-color:#FECDEE">N°123（ナンバーひゃくにじゅうさん）</p></font></a></b>
+<p><table cellspacing=5><tr>
+		<td><img src="12301.gif"width="200" height="150"><img src="12302.gif"width="200" height="150"></td>
+		<td>
+        ?制点心<br><br>
+      	????  10:00～17:00<br><br>
+      	固定休息日     ?周星期四<br><br>
+      	店内有一个一个?真?好的松?。除了松?之外，<br>
+      	?有松脆的?干。</td>
+</tr></table></p>
+</div>
+
+
+<a href="guide.html" class="btn-square">返回</a>
+</center>
+</body>
+</html>
