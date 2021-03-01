@@ -43,7 +43,7 @@ td {
 }
 
 .covid {
-  text-align: center;
+  text-align: left;
 }
 
 .covid-title {
@@ -75,7 +75,6 @@ td {
 
 .syoutengai {
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
