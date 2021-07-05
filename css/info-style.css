@@ -27,7 +27,7 @@ td {
 .item-title {
   font-size: 16pt;
   font-weight: bold;
-  color: red;
+  color: #CC0000;
   margin-bottom: 20px;
 }
 
@@ -38,7 +38,7 @@ td {
 }
 
 .title_bold {
-  color: red;
+  color: #CC0000;
   font-weight: bold;
 }
 
