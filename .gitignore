@@ -7,3 +7,4 @@ docker-compose.yml
 *.png
 *.gif
 *.mp4
+*.py
